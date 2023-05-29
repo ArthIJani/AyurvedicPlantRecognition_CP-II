@@ -1,0 +1,28 @@
+<!-- templates/disease_to_plant.html -->
+
+
+{% block content %}
+<div class="py-10">
+  <h1 class="text-2xl font-bold mb-4">Plants that cure {{ result.disease_name }}</h1>
+  {% if plants %}
+    <ul>
+      {% for plant in plants %}
+        <li class="mb-4">
+          <h2 class="text-xl font-bold">{{ result.plant.name }}</h2>
+          <p class="text-gray-700">{{ result.plant.description }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No plants found that cure {{ result.disease_name }}.</p>
+        {% endif %}
+        
+          <form class="mt-8" method="post">
+            {% csrf_token %}
+            <label for="disease_name" class="block font-bold text-gray-700">Enter a disease name:</label>
+            <input type="text" name="disease_name" id="disease_name" class="mt-1 w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring focus:ring-indigo-200 focus:ring-opacity-50" required>
+            <button type="submit" class="mt-4 py-2 px-4 bg-blue-500 hover:bg-blue-600 text-white font-bold rounded-lg shadow-md focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">Search</button>
+          </form>
+        </div>
+{% endblock %}
+

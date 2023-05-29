@@ -1,0 +1,86 @@
+Diseases,plants
+abdominal pain,['Bellyache bush (Green
+allergies,Indian Stinging Nettle
+anal fissures,Tinnevelly Senna
+anemia,"Basella Alba (Basale) ,Moringa Oleifera (Drumstick) ,Murraya Koenigii (Curry) ,Punica Granatum (Pomegranate)"
+antioxidant,Cape Gooseberry
+anxiety,"Butterfly Pea ,Holy Basil ,Jasminum (Jasmine) ,Night blooming Cereus ,Ocimum Tenuiflorum (Tulsi) ,Santalum Album (Sandalwood) ,Velvet Bean"
+arthritis,"Alpinia Galanga (Rasna) ,Heart-leaved moonseed ,Moringa Oleifera (Drumstick) ,Nyctanthes Arbor-tristis (Parijata)"
+asthma,"Amaranthus Viridis (Arive-Dantu) ,Artocarpus Heterophyllus (Jackfruit) ,Bellyache bush (Green ,Cape Gooseberry ,Country Mallow ,Euphorbia hirta ,Ficus Religiosa (Peepal Tree) ,Indian Thornapple ,Madras Pea Pumpkin ,Moringa Oleifera (Drumstick) ,Stinking Passionflower ,Trellis Vine"
+bad breath,Piper Betle (Betel)
+bone fractures,"Bristly Wild Grape ,Trellis Vine"
+bronchitis,"Ocimum Tenuiflorum (Tulsi) ,Santalum Album (Sandalwood)"
+cancer,Moringa Oleifera (Drumstick)
+cold,Sweet Basil
+common cold,Ocimum Tenuiflorum (Tulsi)
+constipation,"Artocarpus Heterophyllus (Jackfruit) ,Basella Alba (Basale) ,Bellyache bush (Green ,Carissa Carandas (Karanda) ,Indian Jujube ,Mangifera Indica (Mango) ,Moringa Oleifera (Drumstick) ,Nalta Jute ,Nyctanthes Arbor-tristis (Parijata) ,Psidium Guajava (Guava) ,Spiderwisp ,Tinnevelly Senna"
+cough,"Amaranthus Viridis (Arive-Dantu) ,Bellyache bush (Green ,Euphorbia hirta ,Indian Thornapple ,Ocimum Tenuiflorum (Tulsi) ,Psidium Guajava (Guava) ,Sweet Basil ,Syzygium Jambos (Rose Apple) ,Tabernaemontana Divaricata (Crape Jasmine)"
+depression,"Butterfly Pea ,Velvet Bean"
+diabetes,"Avaram ,Ficus Religiosa (Peepal Tree) ,Heart-leaved moonseed ,Ivy Gourd ,Kokilaksha ,Madagascar Periwinkle ,Madras Pea Pumpkin ,Moringa Oleifera (Drumstick) ,Mountain Knotgrass ,Murraya Koenigii (Curry) ,Phyllanthus reticulatus Poir ,Punica Granatum (Pomegranate) ,Syzygium Cumini (Jamun) ,Trigonella Foenum-graecum (Fenugreek)"
+diarrhea,"Amaranthus Viridis (Arive-Dantu) ,Artocarpus Heterophyllus (Jackfruit) ,Carissa Carandas (Karanda) ,Coatbuttons ,Common Wireweed ,Euphorbia hirta ,Mangifera Indica (Mango) ,Moringa Oleifera (Drumstick) ,Muntingia Calabura (Jamaica Cherry-Gasagase) ,Murraya Koenigii (Curry) ,Psidium Guajava (Guava) ,Punica Granatum (Pomegranate) ,Syzygium Cumini (Jamun)"
+digestion,"Citrus Limon (Lemon) ,Piper Betle (Betel)"
+digestive disorders,"Crown flower ,Green Chireta ,Hibiscus Rosa-sinensis ,Night blooming Cereus ,Ocimum Tenuiflorum (Tulsi) ,Pongamia Pinnata (Indian Beech) ,Prickly Chaff Flower ,Purple Fruited Pea Eggplant ,Small Water Clover ,Sweet flag"
+digestive issues,"Brassica Juncea (Indian ,Bristly Wild Grape"
+digestive problems,"Indian Jujube ,Indian Sarsaparilla ,Indian wormwood ,Ivy Gourd ,Kokilaksha ,Trigonella Foenum-graecum (Fenugreek)"
+digestive tract problems,"Santalum Album (Sandalwood) ,Shaggy button weed ,Sweet Basil ,Syzygium Jambos (Rose Apple)"
+dysentery,"Amaranthus Viridis (Arive-Dantu) ,Muntingia Calabura (Jamaica Cherry-Gasagase) ,Murraya Koenigii (Curry) ,Nalta Jute ,Psidium Guajava (Guava) ,Punica Granatum (Pomegranate)"
+eczema,Land Caltrops (Bindii)
+edema,Punarnava
+epilepsy,Moringa Oleifera (Drumstick)
+eye problems,"Amaranthus Viridis (Arive-Dantu) ,Basella Alba (Basale)"
+fever,"Alpinia Galanga (Rasna) ,Amaranthus Viridis (Arive-Dantu) ,Azadirachta Indica (Neem) ,Balloon vine ,Benghal dayflower ,Cape Gooseberry ,Coatbuttons ,Common Wireweed ,Country Mallow ,Crown flower ,Green Chireta ,Heart-leaved moonseed ,Hibiscus Rosa-sinensis ,Indian CopperLeaf ,Indian Thornapple ,Indian wormwood ,Ivy Gourd ,Madras Pea Pumpkin ,Mangifera Indica (Mango) ,Mexican Prickly Poppy ,Nalta Jute ,Nyctanthes Arbor-tristis (Parijata) ,Ocimum Tenuiflorum (Tulsi) ,Panicled Foldwing ,Prickly Chaff Flower ,Purple Fruited Pea Eggplant ,Purple Tephrosia ,Rosary Pea ,Shaggy button weed ,Small Water Clover ,Square Stalked Vine ,Sweet flag ,Syzygium Jambos (Rose Apple) ,Tabernaemontana Divaricata (Crape Jasmine)"
+fungal infections,Azadirachta Indica (Neem)
+gastrointestinal disorders,"Mountain Knotgrass ,Nalta Jute"
+headache,"Night blooming Cereus ,Panicled Foldwing ,Stinking Passionflower"
+heart disorders,Punica Granatum (Pomegranate)
+hemorrhoids,"Basella Alba (Basale) ,Tinnevelly Senna"
+hepatitis,Cape Gooseberry
+high blood pressure,Hibiscus Rosa-sinensis
+hypertension,"Avaram ,Land Caltrops (Bindii)"
+immune system,Holy Basil
+indigestion,"Alpinia Galanga (Rasna) ,Artocarpus Heterophyllus (Jackfruit) ,Azadirachta Indica (Neem) ,Malabar Catmint ,Mentha (Mint) ,Malabar Catmint ,Murraya Koenigii (Curry)"
+infertility,Velvet Bean
+inflammation,"Alpinia Galanga (Rasna) ,Amaranthus Viridis (Arive-Dantu) ,Mountain Knotgrass ,Panicled Foldwing ,Pongamia Pinnata (Indian Beech) ,Prickly Chaff Flower"
+insect bites,Ocimum Tenuiflorum (Tulsi)
+insomnia,"Indian Jujube ,Jasminum (Jasmine) ,Night blooming Cereus ,Santalum Album (Sandalwood)"
+irritable bowel syndrome,Tinnevelly Senna
+jaundice,"Phyllanthus reticulatus Poir ,Spiderwisp"
+joint pain,"Balloon vine ,Bristly Wild Grape ,Indian Sarsaparilla ,Indian Stinging Nettle ,Indian wormwood ,Kokilaksha ,Trellis Vine"
+kidney problems,Big Caltrops
+kidney stones,"Kokilaksha ,Small Water Clover"
+leukemia,Madagascar Periwinkle
+liver diseases,"Mountain Knotgrass ,Murraya Koenigii (Curry) ,Nalta Jute"
+liver disorders,"Avaram ,Indian Sarsaparilla ,Punarnava"
+malaria,"Azadirachta Indica (Neem) ,Indian wormwood ,Madagascar Periwinkle"
+male virility,Velvet Bean
+memory improvement,Butterfly Pea
+menstrual cramps,Trigonella Foenum-graecum (Fenugreek)
+menstrual disorders,"Basella Alba (Basale) ,Country Mallow ,Nyctanthes Arbor-tristis (Parijata) ,Small Water Clover ,Trellis Vine"
+muscle spasms,Indian Thornapple
+nausea,"Mentha (Mint) ,Plectranthus Amboinicus (Mexican Mint)"
+obesity,"Trellis Vine ,Trigonella Foenum-graecum (Fenugreek)"
+oral hygiene,Piper Betle (Betel)
+pain,"Alpinia Galanga (Rasna) ,Indian Thornapple ,Mexican Prickly Poppy"
+parkinson's disease,Velvet Bean
+prostate problems,Indian Stinging Nettle
+respiratory disorders,"Azadirachta Indica (Neem) ,Ficus Auriculata (Roxburgh fig) ,Indian CopperLeaf ,Nyctanthes Arbor-tristis (Parijata) ,Piper Betle (Betel) ,Plectranthus Amboinicus (Mexican Mint) ,Prickly Chaff Flower ,Punarnava ,Purple Fruited Pea Eggplant ,Purple Tephrosia ,Shaggy button weed"
+respiratory function,Holy Basil
+respiratory infections,"Alpinia Galanga (Rasna) ,Balloon vine ,Coatbuttons ,Common Wireweed ,Indian Jujube ,Indian Sarsaparilla ,Indian Stinging Nettle ,Ivy Gourd ,Jasminum (Jasmine)"
+respiratory problems,Brassica Juncea (Indian
+respiratory tract infections,"Square Stalked Vine ,Sweet flag"
+skin conditions,"Indian Jujube ,Indian Stinging Nettle ,Indian wormwood ,Ivy Gourd ,Jasminum (Jasmine) ,Mexican Prickly Poppy ,Santalum Album (Sandalwood)"
+skin diseases,"Artocarpus Heterophyllus (Jackfruit) ,Avaram ,Azadirachta Indica (Neem) ,Balloon vine ,Bellyache bush (Green ,Benghal dayflower ,Crown flower ,Ficus Auriculata (Roxburgh fig) ,Ficus Religiosa (Peepal Tree) ,Indian CopperLeaf ,Indian Sarsaparilla ,Phyllanthus reticulatus Poir ,Pongamia Pinnata (Indian Beech) ,Spiderwisp ,Stinking Passionflower ,Sweet Basil ,Syzygium Cumini (Jamun) ,Tabernaemontana Divaricata (Crape Jasmine)"
+skin disorders,"Plectranthus Amboinicus (Mexican Mint) ,Psidium Guajava (Guava) ,Rosary Pea"
+skin health,Citrus Limon (Lemon)
+skin inflammation,Trigonella Foenum-graecum (Fenugreek)
+snake bites,"Purple Tephrosia ,Rosary Pea"
+snakebites,Shaggy button weed
+sore throat,Carissa Carandas (Karanda)
+stomach pain,Moringa Oleifera (Drumstick)
+stomachache,Plectranthus Amboinicus (Mexican Mint)
+stress,"Holy Basil ,Ocimum Tenuiflorum (Tulsi)"
+ulcers,Moringa Oleifera (Drumstick)
+urinary tract infections,"Avaram ,Big Caltrops ,Indian Sarsaparilla ,Indian Stinging Nettle ,Kokilaksha ,Land Caltrops (Bindii) ,Phyllanthus reticulatus Poir ,Punarnava ,Santalum Album (Sandalwood) ,Square Stalked Vine"
+vomiting,Plectranthus Amboinicus (Mexican Mint)
+weight loss,Tinnevelly Senna
+wounds,"Ficus Auriculata (Roxburgh fig) ,Muntingia Calabura (Jamaica Cherry-Gasagase) ,Panicled Foldwing ,Pongamia Pinnata (Indian Beech) ,Purple Tephrosia"

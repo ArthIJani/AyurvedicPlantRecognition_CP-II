@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+    <div class="container mx-auto mt-10">
+        <h1 class="text-3xl font-semibold mb-4">Thank You!</h1>
+        <p class="mb-4">Your message has been sent.</p>
+        <a class="text-blue-500 hover:underline" href="{% url 'contact_us' %}">Back to Contact Us</a>
+    </div>
+{% endblock %}

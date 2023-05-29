@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    Plant Suggestion 
+{% endblock %}
+{% block content %}
+
+<div class="container my-8 py-16 max-w-4xl mx-auto">
+  <h3></h3>
+    <form method="post"  align='center'>
+      {% csrf_token %}
+      <label for="input">Input:</label>
+      <input type="text" id="input" name="input" class="border rounded px-4 py-2">
+      <button type="submit " class="bg-blue-500 text-white py-2 px-4 rounded">Submit</button>
+    </form>
+
+    {% if output_data %}
+    {% if temp == 'initial'%}
+    <div class="my-8">
+        <div class="bg-white rounded-lg shadow-lg">
+          <br><br>
+          <h1  align='center' class="text-xl font-bold mb-3">{{output_data}}</h1>
+          <br><br>
+        </div>
+      </div>{% endif %}
+    
+
+        {%if temp == '' %}
+        <div class="my-8">
+            <p align='center'>Output:</p>
+            <div class="flex flex-wrap justify-center">
+            {{output_data}}
+        {%elif temp == 'found'%}
+        <div class="my-8">
+            <p align='center'>Output:</p>
+            <div class="flex flex-wrap justify-center">
+            {%for i,j in output_data%}
+
+                <div class=" w-full sm:w-1/2 md:w-1/3 p-2">
+                  
+                    <div class="bg-white rounded-lg shadow-lg">
+                      <a href="{%url 'suggested_plant_info'%}?data={{j}}" >
+                        <img src="{{j|add:'\img.jpg'}}" alt="{{i}}" class="w-full h-48 object-cover rounded-t-lg">
+                        <div class="p-4">
+                            <h2 class="text-xl font-bold mb-2">{{i}}</h2>
+
+                        </div>
+                      </a>
+                    </div>
+                  
+            </div>
+                     
+          {%endfor%}
+          </div>
+        </div>
+        {%endif%}
+    
+    </div>
+    
+    
+    </div>
+    {% endif %}
+  </div>
+
+{% endblock %}
