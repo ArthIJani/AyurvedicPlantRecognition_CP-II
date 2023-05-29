@@ -30,7 +30,7 @@ can have numerous applications in agriculture, forestry, and conservation.
 <br><br>
 
 <h2>Features</h2>
-<br><br>
+<br>
 On the Explore page, you will find three features related to plant diseases and care: Plant for
 Diseases, Know about Specific Plant, and Compare Two Plants.
 <br><br>
@@ -39,13 +39,13 @@ specific diseases. To access this feature, click on the "Plant for Diseases" opt
 the Explore page. This will redirect you to a new page with an input field where you
 can enter the name of the disease you want to cure. Once you've entered the name of
 the disease, click on the "Search" button, and the page will display a list of plants that
-can help you cure the disease.<br>
+can help you cure the disease.<br><br>
 <b>2)Know about Specific Plant:</b> This feature provides information about a specific plant.
 To access this feature, click on the "Know about Specific Plant" option on the Explore
 page. This will redirect you to a new page with an input field where you can enter the
 name of the plant you want to know about. Once you've entered the name of the plant,
 click on the "Search" button, and the page will display information about the plant,
-including its care requirements, growth habits, and more.<br>
+including its care requirements, growth habits, and more.<br><br>
 <b>3)Compare Two Plants:</b> This feature allows you to compare two different plants. To
 access this feature, click on the "Compare Two Plants" option on the Explore page.
 This will redirect you to a new page with two input fields where you can enter the
